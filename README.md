@@ -1,4 +1,4 @@
-## Hi, i'm Jesse Benevenuto
+## Hi! I'm Jesse Benevenuto.
  <div>
   <a href="https://github.com/jessebenevenuto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessebenevenuto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
