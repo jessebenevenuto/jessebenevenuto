@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 A student focused on start programming for web 
-- 🔭 I'm currently working as technical support at [IFRJ](https://portal.ifrj.edu.br/)
-- ⚡ Fun fact: Everyone thinks I look like Michelangelo
+- 🚀 A student focused on start programming for web 
+- 🛠️ I'm currently working as technical support at [IFRJ](https://portal.ifrj.edu.br/)
+- 🍕 Fun fact: Everyone thinks I look like Michelangelo
 
 <div align="center">
   <a href="https://github.com/bnevenuto">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=bnevenuto&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnevenuto&layout=compact&hide=shell&theme=monokai"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bnevenuto&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnevenuto&layout=compact&hide=shell&theme=monokai"/>
 </div>
   
 <div style="display: inline_block"><br>
