@@ -19,7 +19,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/bnevenuto">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bnevenuto&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnevenuto&layout=compact&langs_count=7&theme=monokai"/>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="200em" align="right" alt="notebook birobirobiro">
 </div>
   
 <div style="display: inline_block"><br>
@@ -28,6 +27,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Bnevenuto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
    <img align="center" alt="Bnevenuto-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    <img align="center" alt="Bnevenuto-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="250em" align="right" alt="notebook birobirobiro">
 </div>
   
   ##
