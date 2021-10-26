@@ -30,10 +30,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Bnevenuto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bnevenuto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
    <img align="center" alt="Bnevenuto-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-   <img align="center" alt="Bnevenuto-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <kbd>
-  <img align="right" alt="Bnevenuto-pic" height="150" style="border-radius: 100px" src="https://c.tenor.com/--PMKOkZyGMAAAAM/reeserussell-michelangelo.gif">
-  </kbd>
+   <img align="center" alt="Bnevenuto-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> 
+   <img align="right" alt="Bnevenuto-pic" style="border-radius: 50px" height="150" src="https://c.tenor.com/--PMKOkZyGMAAAAM/reeserussell-michelangelo.gif">
 </div>
   
   ##
