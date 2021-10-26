@@ -1,4 +1,4 @@
-## Hi 👋, I'm Jesse 💜
+## Hi 👋, I'm Jesse Benevenuto 💜
 
 <!--
 **bnevenuto/bnevenuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🚀 A student focused on start programming for web 
 - 🛠️ I'm currently working as technical support at [IFRJ](https://portal.ifrj.edu.br/)
-- 🍕 Fun fact: Everyone thinks I look like Michelangelo
+- 🍕 Fun fact: A lot of people think I look like Michelangelo 
 
 <div align="center">
   <a href="https://github.com/bnevenuto">
