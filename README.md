@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/bnevenuto">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bnevenuto&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnevenuto&layout=compact&hide=shell&theme=monokai"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=bnevenuto&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnevenuto&layout=compact&hide=shell&theme=monokai"/>
 </div>
   
 <div style="display: inline_block"><br>
